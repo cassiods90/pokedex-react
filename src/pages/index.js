@@ -1,0 +1,5 @@
+export * from './Home'
+export * from './Pokemons'
+export * from './Pokemon'
+export * from './MiniGame'
+export * from './About'
